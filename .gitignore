@@ -1,0 +1,4 @@
+/dataset/train/images
+/dataset/train/annotations.csv
+/dataset/test/images
+/dataset/test/annotations
