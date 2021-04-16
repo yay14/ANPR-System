@@ -3,3 +3,5 @@
 /dataset/test/images
 /dataset/test/annotations
 /.ipynb_checkpoints
+/mAP
+/yolov5
