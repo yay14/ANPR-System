@@ -1,0 +1,6 @@
+train: ANPR System/dataset/train/train.txt
+val:ANPR System/dataset/train/val.txt
+
+nc: 1
+
+names: ['license_plate']
