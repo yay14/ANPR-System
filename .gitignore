@@ -2,3 +2,4 @@
 /dataset/train/annotations.csv
 /dataset/test/images
 /dataset/test/annotations
+/.ipynb_checkpoints
